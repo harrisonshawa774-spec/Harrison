@@ -8,4 +8,3 @@ balance = total_fees - amount_paid
 print(f"Name:{name}")
 print(f"Program:{program}")
 print(f"Balance:{balance}")
-
